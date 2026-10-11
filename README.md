@@ -8,54 +8,68 @@ This repository contains selected projects from my academic and research work, w
 
 ## Selected Projects
 
-### 1. Allocation of The First Supervisor for Students' Final Assignments Using Cosine Similarity and Genetic Algorithm
-**R · Text Similarity · Optimization · Dashboard**
+### 1. Application of Long Short-Term Memory in Forecasting Non-Oil and Gas Export Value
+**Python · Deep Learning · Time Series Forecasting**
 
-Developed an approach to allocate first supervisors by considering student preferences, research-topic similarity, and lecturer capacity. The project combines text similarity and a genetic algorithm to address a constrained allocation problem.
+Applied a Long Short-Term Memory (LSTM) model to forecast Indonesia's non-oil and gas export value, using the Adam optimizer during model training.
 
-[View Project](#)
+[View Project](https://drive.google.com/drive/folders/1gL3CGPJknPCGnCIhIpbx5EIkaRDXNdcN?usp=sharing)
 
-### 2. Application of Long Short-Term Memory in Forecasting Non-Oil and Gas Export Value
-**Python · Deep Learning · Time Series**
+### 2. Modeling Public Perception of the Performance of the Mayor of Bekasi Using Latent Dirichlet Allocation (LDA)
+**Python · Natural Language Processing · Topic Modeling**
 
-Applied a Long Short-Term Memory (LSTM) model to forecast Indonesia's non-oil and gas export value. The project explores deep learning for time series forecasting and uses the Adam optimizer during model training.
+Analyzed YouTube comments using Latent Dirichlet Allocation (LDA) to identify dominant discussion topics and explore public perceptions of the Mayor of Bekasi's performance.
 
-[View Project](#)
+[View Project](https://drive.google.com/drive/folders/1h8wbOV2O8QyxBin74Hxp2tdSONDRTeVw?usp=sharing)
 
-### 3. Modeling Public Perception of The Performance of The Mayor of Bekasi Using Latent Dirichlet Allocation
-**NLP · Topic modeling**
+### 3. Revealing Interprovincial Divorce Patterns in Indonesia in 2023 Using the Spectral Clustering Approach
+**Python · Machine Learning · Clustering**
 
-Analyzed YouTube comments to identify dominant topics.
+Applied spectral clustering to identify groups of provinces with similar divorce patterns in Indonesia in 2023, exploring regional similarities through unsupervised learning.
 
-[https://drive.google.com/drive/folders/1h8wbOV2O8QyxBin74Hxp2tdSONDRTeVw?usp=sharing](#)
+[View Project](https://drive.google.com/drive/folders/1h7GpUSgK-_VUnztR0cvHERWONEUM6u8h?usp=sharing)
 
+### 4. Personality Classification of Introverts and Extroverts Using Logistic Regression with Gradient Descent Optimization
+**Python · Classification · Logistic Regression · Optimization**
 
-### 4. Shopping Pattern Analysis in West Java
-**Data Analysis · Association Rule Mining · Apriori**
+Developed a binary classification model using logistic regression and gradient descent to distinguish introverts from extroverts. Evaluated model performance to assess its predictive capability.
 
-Analyzed purchasing patterns in West Java using the Apriori algorithm to identify product associations. The project focuses on extracting interpretable patterns from transaction-related data and presenting findings through data analysis and visualization.
+[View Project](https://drive.google.com/drive/folders/1g7YLO8uSSiVbMoOAt5iTrd-lag7zTmBU?usp=sharing)
 
-[View Project](#)
+### 5. Comparison of Bootstrap and Monte Carlo Methods in Estimating Skewness and Kurtosis
+**Python · Statistical Simulation · Resampling**
 
-### 5. Food Security Analysis in East Nusa Tenggara
-**Panel Data Regression · Statistical Research**
+Compared bootstrap and Monte Carlo methods for estimating skewness and kurtosis, examining their performance in statistical estimation through simulation.
 
-Examined the relationship between life expectancy, gross regional domestic product (GRDP), food production, and the Food Security Index across 22 districts in East Nusa Tenggara Province.
+[View Project](https://drive.google.com/drive/folders/1iGuwTXNut5Pkg30_ZCBcsuszXmcgPmy6?usp=sharing)
 
-**Publication:** JSTAR (Jurnal Statistika Terapan), 2026 · Sole Author
+### 6. Unveiling the Secrets Behind Stroke Through Binary Logistic Regression and XGBoost
+**Python · Classification · Machine Learning**
+
+Applied binary logistic regression and XGBoost to analyze stroke-related data and explore their performance in stroke classification.
+
+[View Project](https://drive.google.com/drive/folders/16K-xkvWMOQtpAjsVDeLr8hxBiLdYl1l-?usp=sharing)
+
+### 7. Essential Albums for Every Vibes
+**Python · Exploratory Data Analysis (EDA)**
+
+Conducted exploratory data analysis to examine music album data, identify patterns, and summarize insights to support music exploration and discovery.
+
+[View Project](https://drive.google.com/drive/folders/17dG4UPtupIDaa2leiOc54kXvnCklLqxw?usp=sharing)
 
 ## Research and Professional Experience
 
-- **Ministry of Industry of the Republic of Indonesia** — Analyzed economic indicators, including GDP, exports, imports, manufacturing PMI, and the industry confidence index, to support sectoral analysis and planning.
-- **IPB University** — Supported survey implementation, data processing, Human Development Index calculations, and research reporting for a subdistrict-level study in Depok City.
-- **Gamma Sigma Beta** — Worked on data consulting projects, helping clients determine data-processing approaches and interpret analytical results.
+- **Intern Direktorat ASDIPI - Kementerian Perindustrian RI** — Analyzed economic indicators, including GDP, exports, imports, manufacturing PMI, and the industry confidence index, to support sectoral analysis and planning.
+- **Human Development Index (HDI) Analysis at the Subdistrict Level in Depok City - Study Program Statistics and Data Science IPB University** — Supported survey implementation, data processing, Human Development Index calculations, and research reporting for a subdistrict-level study in Depok City.
+- **Himpunan Profesi Statistika Gamma Sigma Beta** — Worked on data consulting projects, helping clients determine data-processing approaches and interpret analytical results.
 
 ## Technical Skills
 
 - **Programming:** Python, R, SQL
 - **Statistical Software:** SAS, SPSS, Minitab, EViews, SmartPLS
 - **Methods:** Exploratory Data Analysis, Regression, Time Series Forecasting, Classification, Clustering, Natural Language Processing, and Optimization
-- **Tools:** Microsoft Excel, Data Visualization, Dashboard Development
+- **Soft Skills:** Attention to detail, problem solving, communication, teamwork, adaptability, project management, time management, and leadership
+- **Tools:** Microsoft Excel, Canva, Data Visualization, Dashboard Development
 
 ## Publications
 

@@ -64,3 +64,4 @@ GPA: 3.90/4.00
 
 - Email: sandraberlianaa@gmail.com
 - LinkedIn: [linkedin.com/in/sandrabrlnp](https://linkedin.com/in/sandrabrlnp)
+- Rpubs: (https://rpubs.com/sandraberlianaputri)

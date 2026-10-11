@@ -1,6 +1,6 @@
 # SandraBerlianaPutri
 
-**Statistics and Data Science | Data Analyst**
+**Statistics and Data Science | Data Analyst, Data Science, and Data Engineer**
 
 Statistics and Data Science graduate from IPB University with experience in economic data analysis, statistical research, and data consulting. My work has covered time series forecasting, machine learning, optimization, and applied statistical analysis.
 
@@ -8,28 +8,36 @@ This repository contains selected projects from my academic and research work, w
 
 ## Selected Projects
 
-### 1. Indonesian Non-Oil and Gas Export Forecasting
-**Python · Time Series · LSTM**
+### 1. Allocation of The First Supervisor for Students' Final Assignments Using Cosine Similarity and Genetic Algorithm
+**R · Text Similarity · Optimization · Dashboard**
+
+Developed an approach to allocate first supervisors by considering student preferences, research-topic similarity, and lecturer capacity. The project combines text similarity and a genetic algorithm to address a constrained allocation problem.
+
+[View Project](#)
+
+### 2. Application of Long Short-Term Memory in Forecasting Non-Oil and Gas Export Value
+**Python · Deep Learning · Time Series**
 
 Applied a Long Short-Term Memory (LSTM) model to forecast Indonesia's non-oil and gas export value. The project explores deep learning for time series forecasting and uses the Adam optimizer during model training.
 
 [View Project](#)
 
-### 2. Thesis Supervisor Allocation Using Cosine Similarity and Genetic Algorithm
-**R · Text Similarity · Optimization**
+### 3. Modeling Public Perception of The Performance of The Mayor of Bekasi Using Latent Dirichlet Allocation
+**NLP · Topic modeling**
 
-Developed an approach to allocate first thesis supervisors by considering student preferences, research-topic similarity, and lecturer capacity. The project combines text similarity and a genetic algorithm to address a constrained allocation problem.
+Analyzed YouTube comments to identify dominant topics.
 
-[View Project](#)
+[https://drive.google.com/drive/folders/1h8wbOV2O8QyxBin74Hxp2tdSONDRTeVw?usp=sharing](#)
 
-### 3. Shopping Pattern Analysis in West Java
+
+### 4. Shopping Pattern Analysis in West Java
 **Data Analysis · Association Rule Mining · Apriori**
 
 Analyzed purchasing patterns in West Java using the Apriori algorithm to identify product associations. The project focuses on extracting interpretable patterns from transaction-related data and presenting findings through data analysis and visualization.
 
 [View Project](#)
 
-### 4. Food Security Analysis in East Nusa Tenggara
+### 5. Food Security Analysis in East Nusa Tenggara
 **Panel Data Regression · Statistical Research**
 
 Examined the relationship between life expectancy, gross regional domestic product (GRDP), food production, and the Food Security Index across 22 districts in East Nusa Tenggara Province.

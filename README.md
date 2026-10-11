@@ -2,9 +2,20 @@
 
 **Statistics and Data Science | Data Analyst, Data Science, and Data Engineer**
 
-Statistics and Data Science graduate from IPB University with experience in economic data analysis, statistical research, and data consulting. My work has covered time series forecasting, machine learning, optimization, and applied statistical analysis.
+Statistics and Data Science graduate from IPB University with experience in **government-affiliated research, scientific publications, data consulting, and 150+ data science and statistical projects**. Skilled in **collecting, analyzing, interpreting data, building dashboards**, and delivering data-driven solutions.
 
 This repository contains selected projects from my academic and research work, with a focus on the methods used, the problems addressed, and the findings that can be drawn from the data.
+
+## Education
+
+**IPB University**  
+Bachelor's Degree in Statistics and Data Science · 2022–2026  
+GPA: 3.90/4.00
+
+## Publications
+
+- *Factors Affecting the Food Security Index in East Nusa Tenggara Province Using Panel Data Analysis* — JSTAR, 2026.
+- *Training on California Lemon Processing to Enhance Agricultural Value Addition in Ngambarsari Village, Wonogiri* — Jurnal Pusat Inovasi Masyarakat, 2025.
 
 ## Selected Projects
 
@@ -57,7 +68,7 @@ Conducted exploratory data analysis to examine music album data, identify patter
 
 [View Project](https://drive.google.com/drive/folders/17dG4UPtupIDaa2leiOc54kXvnCklLqxw?usp=sharing)
 
-## Research and Professional Experience
+## Professional and Organizational Experiences
 
 - **Intern Direktorat ASDIPI - Kementerian Perindustrian RI** — Analyzed economic indicators, including GDP, exports, imports, manufacturing PMI, and the industry confidence index, to support sectoral analysis and planning.
 - **Human Development Index (HDI) Analysis at the Subdistrict Level in Depok City - Study Program Statistics and Data Science IPB University** — Supported survey implementation, data processing, Human Development Index calculations, and research reporting for a subdistrict-level study in Depok City.
@@ -70,17 +81,6 @@ Conducted exploratory data analysis to examine music album data, identify patter
 - **Methods:** Exploratory Data Analysis, Regression, Time Series Forecasting, Classification, Clustering, Natural Language Processing, and Optimization
 - **Soft Skills:** Attention to detail, problem solving, communication, teamwork, adaptability, project management, time management, and leadership
 - **Tools:** Microsoft Excel, Canva, Data Visualization, Dashboard Development
-
-## Publications
-
-- *Factors Affecting the Food Security Index in East Nusa Tenggara Province Using Panel Data Analysis* — JSTAR, 2026.
-- *Training on California Lemon Processing to Enhance Agricultural Value Addition in Ngambarsari Village, Wonogiri* — Jurnal Pusat Inovasi Masyarakat, 2025.
-
-## Education
-
-**IPB University**  
-Bachelor's Degree in Statistics and Data Science · 2022–2026  
-GPA: 3.90/4.00
 
 ## Contact
 
